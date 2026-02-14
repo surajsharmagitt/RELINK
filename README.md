@@ -50,6 +50,14 @@ We optimize for connection quality — not screen time.
 
 ---
 
+## 👨‍💻 Author
+
+Suraj Sharma  
+B.Tech CSE (AI & ML)  
+SRM University AP  
+GitHub: https://github.com/surajsharmagitt
+
+
 ## ⚙️ Run Locally
 
 ```bash
